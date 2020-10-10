@@ -29,13 +29,12 @@ Print appropriate text for each photo in a new line.
 1 <= L,W,H <= 10000
 1 <= N <= 1000
 
-### Sample Input           Sample Output 
-180                    CROP IT
-3                      UPLOAD ANOTHER
-640 480                ACCEPTED
-120 300
-180 180
-SAMPLE OUTPUT 
+### Sample Input            
+180                    
+3                      
+640 480                
+
+### Sample Output 
 CROP IT
 UPLOAD ANOTHER
 ACCEPTED
