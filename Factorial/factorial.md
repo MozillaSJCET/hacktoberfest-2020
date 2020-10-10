@@ -15,3 +15,4 @@ Output a single line denoting the factorial of the number N.
 2
 
 ### Sample Output
+2
