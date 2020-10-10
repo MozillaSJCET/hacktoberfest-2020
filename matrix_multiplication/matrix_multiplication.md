@@ -7,7 +7,7 @@ The sample inputs and output are given below:
 
 
 ### Sample Input:
-2 3 4 5
+2 3 4 5<br>
 6 4 1 9
 3 4 6 1
 
