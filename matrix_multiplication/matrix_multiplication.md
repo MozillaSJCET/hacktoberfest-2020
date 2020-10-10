@@ -6,8 +6,8 @@ two input matrices and print the output
 The sample inputs and output are given below:
 
 
-Sample Input:
-2 3 4 5
+### Sample Input:
+2 3 4 5\n
 6 4 1 9
 3 4 6 1
 
@@ -16,7 +16,7 @@ Sample Input:
 6 6
 1 2
 
-Output:
+###Output:
 57 52
 59 58
 75 63
