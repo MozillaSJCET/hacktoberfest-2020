@@ -16,7 +16,7 @@ The sample inputs and output are given below:
 6 6
 1 2
 
-###Output:
+### Output:
 
 57 52
 59 58
