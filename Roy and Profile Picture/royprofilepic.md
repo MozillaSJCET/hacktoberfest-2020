@@ -1,3 +1,4 @@
+### Problem Statement
 Roy wants to change his profile picture on Facebook. Now Facebook has some restriction over the dimension of picture that we can upload.
 Minimum dimension of the picture can be L x L, where L is the length of the side of square.
 
@@ -16,19 +17,19 @@ When any photo is uploaded following events may occur:
 
 Given L, N, W and H as input, print appropriate text as output.
 
-Input:
+### Input:
 First line contains L.
 Second line contains N, number of photos.
 Following N lines each contains two space separated integers W and H.
 
-Output:
+### Output:
 Print appropriate text for each photo in a new line.
 
-Constraints:
+### Constraints:
 1 <= L,W,H <= 10000
 1 <= N <= 1000
 
-Sample Input           Sample Output 
+### Sample Input           Sample Output 
 180                    CROP IT
 3                      UPLOAD ANOTHER
 640 480                ACCEPTED
