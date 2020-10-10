@@ -30,11 +30,11 @@ Print appropriate text for each photo in a new line.
 1 <= N <= 1000
 
 ### Sample Input            
-180                    
-3                      
-640 480                
+1)180                    
+2)3                      
+3)640 480                
 
 ### Sample Output 
-Crop it
-Upload Another
-Accepted
+1)Crop it
+2)Upload Another
+3)Accepted
