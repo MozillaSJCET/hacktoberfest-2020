@@ -1,8 +1,7 @@
 ### Pattern Printing
 Write a program to print 
 the pattern given below
-without using using print
-statements
+without using print statements
 
 
 
@@ -10,7 +9,7 @@ statements
 
         #<br> 
       # # #<br>
-    # # # # # <br>
+    # # # # #<br>
   # # # # # # #<br> 
 # # # # # # # # #<br> 
   # # # # # # #<br> 
