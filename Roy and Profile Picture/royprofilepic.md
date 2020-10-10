@@ -35,6 +35,6 @@ Print appropriate text for each photo in a new line.
 640 480                
 
 ### Sample Output 
-CROP IT
-UPLOAD ANOTHER
-ACCEPTED
+Crop it
+Upload Another
+Accepted
