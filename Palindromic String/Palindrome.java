@@ -14,11 +14,11 @@ public class Palindrome {
         }
         
         if(input.equalsIgnoreCase(inp)) {
-            System.out.println("The string is palindrome.");
+            System.out.println("YES");
         }
         
         else {
-            System.out.println("The string is not palindrome.");
+            System.out.println("NO");
         }
         sc.close();
     }
