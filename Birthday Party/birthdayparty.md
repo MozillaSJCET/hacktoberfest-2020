@@ -11,21 +11,22 @@ Each test case contains two integers, N and M. where is N is number of friends a
 In each test case output "Yes" if he can buy that packet and "No" if he can't buy that packet.
 
 ### Constraints:
-1<=T<=20
-1<=N<=100
-1<=M<=10^5
+1<=T<=20  
+1<=N<=100  
+1<=M<=10^5  
 
 ### Sample Input 
-2
-5 14
+2  
+5 14  
 3 21
 
 ### Sample Output 
-No
+No  
 Yes
 
 ### Explanation
-Test Case 1:
-There is no way such that he can distribute 14 chocolates among 5 friends equally.
-Test Case 2:
+Test Case 1:  
+There is no way such that he can distribute 14 chocolates among 5 friends equally.  
+
+Test Case 2:  
 There are 21 chocolates and 3 friends, so he can distribute chocolates eqally. Each friend will get 7 chocolates.
