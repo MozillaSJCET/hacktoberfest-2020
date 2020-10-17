@@ -7,6 +7,14 @@ You can also add your own questions and solutions as you wish. Please make sure 
 If you have any questions or queries, please create an issue. Or contact mozillasjcet@protonmail.com
 We're always happy to help :)))
 
-For more details on Hacktoberfest, please visit: https://hacktoberfest.digitalocean.com/details
-
-May the FOSS be with you! ⚡
+May the FOSS be with you! ⚡  
+  
+    
+      
+        
+          
+            
+             
+             
+For more details on Hacktoberfest, please visit:  
+https://hacktoberfest.digitalocean.com/details
